@@ -37,21 +37,6 @@ src="https://img.shields.io/github/followers/Briann254?logo=github&style=for-the
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Other                    45 mins             ████████░░░░░░░░░░░░░░░░░   31.29 % 
-YAML                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-TypeScript               27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-Docker                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   99.46 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-💻 Operating System: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
 
 ### Socials
 
