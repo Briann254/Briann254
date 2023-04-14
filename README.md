@@ -20,7 +20,7 @@
 <a href="https://www.github.com/Briann254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Briann254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### My Ecosystem.
 
 
 <p align="left">
@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/Briann254?logo=github&style=for-the
 </p>
 
 
-### Socials
+### Connect with Me.
 
 <p align="left"> <a href="https://discord.com/users/ZUMARH #6935" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Briann254" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brian-nderitu-3605391a2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
