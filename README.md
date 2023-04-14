@@ -1,4 +1,6 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Nderitu.</h1>
+<h1 align="center"> 
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Nderitu.
+</h1>
 ======================================================================================================================================
 
 <h3 align="center">Full Stack Software Engineer . a drummer . sax player and a Mentor</h3>
@@ -7,8 +9,6 @@
 "As a full-stack software engineer, I'm passionate about creating innovative solutions that solve real-world problems. With expertise in React and Ruby on Rails, I'm always looking for new challenges and opportunities to learn and grow. When I'm not coding, you can find me jamming out on my drums and sax or exploring the great outdoors."
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briann254&label=Profile%20views&color=0e75b6&style=flat" alt="briann254" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=briann254" alt="briann254" /></a> </p>
 
 * 🇰🇪  I'm based in Kenya
 * ✉️  You can contact me at [bnnderitu01@gmail.com](mailto:bnnderitu01@gmail.com)
