@@ -2,10 +2,8 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30" width="30"> My name is Brian Nderitu</h1>
 
 
-======================================================================================================================================
-
 <h3 align="center">Full Stack Software Engineer . a drummer . sax player and a Mentor</h3>
----------------------------------------------------
+
 
 "As a full-stack software engineer, I'm passionate about creating innovative solutions that solve real-world problems. With expertise in React and Ruby on Rails, I'm always looking for new challenges and opportunities to learn and grow. When I'm not coding, you can find me jamming out on my drums and sax or exploring the great outdoors."
 
@@ -17,7 +15,7 @@
 * 🧠  I'm learning Ruby on Rails
 * 😁 Pronouns: he/him
 * 🤝  I'm open to collaborating on The Smart Recruitment App
-* ⚡  Fan Fact:"Not only am I a full-stack software engineer, but I also moonlight as a one-man band, slapping the bass on my sax while pounding out some code on my drums. Who says you can't rock out while coding?"😄
+* ⚡  Fan Fact:"I code by day, jam by night, and mentor in between. Basically, I'm a rockstar with a keyboard."😄
 
 <a href="https://www.github.com/Briann254" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Briann254?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
