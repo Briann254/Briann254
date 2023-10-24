@@ -25,7 +25,7 @@
 - 📫 How to reach me **bnnderitu01@gmail.com**
 
 - ** ⚡ I code by day, jam by night, and mentor in between. Basically, I'm a rockstar with a keyboard."😄**
-- ⚡ Fun fact **I am not a fun Pineapples😄**
+- ⚡ Fun fact **I am not a fun of Pineapples😄**
 
 ##
 
