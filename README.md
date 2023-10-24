@@ -16,15 +16,16 @@
 
 **'Check Me In'**
 
-- 🔭 I’m currently working on **Smart Recruiter App**
+- 🔭 I’m currently working on a **3D portfolio website**
 
-- 🌱 I’m currently learning **Front-end Stack development**
+- 🌱 I’m currently learning **Threejs**
 
 - 💬 Ask me about **Front-end dev(Reactjs, html5, css3), Back-end dev(Ruby on Rails), Python**
 
 - 📫 How to reach me **bnnderitu01@gmail.com**
 
-- ⚡ Fun fact **I code by day, jam by night, and mentor in between. Basically, I'm a rockstar with a keyboard."😄**
+- ** ⚡ I code by day, jam by night, and mentor in between. Basically, I'm a rockstar with a keyboard."😄**
+- ⚡ Fun fact **I am not a fun Pineapples😄**
 
 ##
 
